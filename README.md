@@ -7,7 +7,7 @@
 
 ## 🧠 About Me 
 I'm Bryan Iban Mamani Quispe, currently in my 4th semester of Systems Engineering at Universidad Privada del Valle (UNIVALLE). I blend academic learning with real-world impact, leading as President of the Scientific Society of Informatics Engineering.
-My focus lies in building modular, secure, and scalable system, and money obviously.
+My focus lies in building modular, secure, and scalable system.
 
 ## 💼 Professional Experience
 ---
