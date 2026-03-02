@@ -57,8 +57,8 @@ Frontend Developer · Universidad Privada del Valle
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badg&logo=docker&logoColor=white)
 
 # GitHub Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BiMq0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmq-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/></div>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BiMq0&theme=tokyonight&hide_border=true&background=0D1117"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bryanmq-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmq-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanmq-dev&theme=tokyonight&hide_border=true&background=0D1117"/></div>
 
 
 ## Current Focus
