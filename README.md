@@ -26,7 +26,7 @@ I'm **Bryan Iban Mamani Quispe**, a Computer Systems Engineering student at **Un
 ```yaml
 role:        Fullstack developer · end-to-end product delivery
 shipping:    Client websites with their own CMS · STAN (research + product)
-leading:     President, SOCEISI · La Paz Coordinator, Microsoft User Group Bolivia
+leading:     President, SOCEISI (Computer Systems Engineering Scientific Society)
 speaking:    Global Azure La Paz 2026 · CBA 4th of July Celebration
 ai_tooling:  Claude Code, daily since April 2026 (MCP servers + per-project skills)
 open_to:     Freelance · per-project remote work · English or Spanish
@@ -37,14 +37,10 @@ open_to:     Freelance · per-project remote work · English or Spanish
 ```mermaid
 flowchart LR
     A([💡 Client idea]) --> B[🎨 Design]
-    B --> C[📐 Business rules]
-    C --> D[🖥️ Frontend]
-    C --> E[⚙️ Backend]
-    D --> F[🐳 Docker + Coolify]
-    E --> F
-    F --> G[☁️ Cloudflare Tunnels]
-    G --> H([🚀 Live in production])
-    H -. feedback .-> C
+    B --> C[⌨️ Coding & prompting]
+    C --> D[🧪 Testing]
+    D -- iterate --> B
+    D -- ready --> E([🚀 Live in production])
 ```
 
 ## 💼 Experience
@@ -155,7 +151,6 @@ flowchart LR
 |:-:|---|---|
 | 🏛️ | **President**, Computer Systems Engineering Scientific Society (SOCEISI), UNIVALLE · *2025 – present* | ~550 students · board grew from 10 members to 55 volunteer applications · Competitive Programming School (ICPC), Development Incubator, peer mentoring |
 | 🎪 | **Events** | Invasión de las Torres · GitHub Copilot Dev Days (host venue) · FLISOL 2026 · OpenLab I & II |
-| 🪟 | **La Paz Coordinator**, Microsoft User Group Bolivia | Local community and events |
 | 🎤 | **Speaker**, Global Azure La Paz 2026 · CBA 4th of July Celebration | AI assistant with augmented reality on Azure AI Foundry, Speech AI, Whisper and MediaPipe |
 
 ## 🧰 Tech Stack
