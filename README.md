@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Design+%C2%B7+Business+rules+%C2%B7+Frontend+%C2%B7+Backend+%C2%B7+Deploy;Self-hosted+all+the+way%3A+Docker+%2B+Coolify+%2B+Cloudflare;WebXR%2C+AR+and+3D+on+the+web;Long+live+C%23+down+with+PHP" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=Design+%E2%86%92+Backend+%E2%86%92+Frontend+%E2%86%92+Deploy;Self-hosted+all+the+way%3A+Docker+%2B+Coolify+%2B+Cloudflare;WebXR%2C+AR+and+3D+on+the+web;Long+live+C%23+down+with+PHP" alt="Typing SVG"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/La%20Paz-Bolivia-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="La Paz, Bolivia"/>
 <img src="https://img.shields.io/badge/Open%20to-Freelance%20%C2%B7%20Remote-2EA043?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D1117" alt="Open to freelance"/>
-<a href="https://linkedin.com/in/bryan-mamani-3a736539b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/bryan-mamani-3a736539b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="mailto:mamani.bryan2505@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
 
 <sub><a href="#-about-me">About</a> · <a href="#-how-i-deliver">How I deliver</a> · <a href="#-experience">Experience</a> · <a href="#-featured-projects">Projects</a> · <a href="#-community">Community</a> · <a href="#-tech-stack">Stack</a> · <a href="#-github-activity">Activity</a></sub>
